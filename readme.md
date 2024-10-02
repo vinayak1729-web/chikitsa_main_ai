@@ -17,7 +17,7 @@ C.H.I.K.I.T.S.A is an AI-powered mental health chatbot designed to assist indivi
 6. User Interface: Intuitive and user-friendly interface for seamless navigation.
 
 ## Architechture 
--  Login 
+-   Architechture
   ![Architechture](static/architechture.png)
 
 ## Out-of-Scope
