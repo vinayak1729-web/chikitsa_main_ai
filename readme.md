@@ -112,6 +112,4 @@ C.H.I.K.I.T.S.A addresses the challenge of providing AI-enhanced mental health a
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you'd like any changes!
