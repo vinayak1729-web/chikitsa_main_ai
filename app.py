@@ -160,7 +160,7 @@ def thank_you():
     
     close_ended_str = csv_to_string("responses/close_end_questions_responses.csv")
     open_ended_str = csv_to_string("responses/open_end_questions_responses.csv")
-    default="this is my assesment of close ended questions and open ended questions ,judge my mental health (like is positive or negative how to make it more better )and give feed back on me " "
+    default="this is my assesment of close ended questions and open ended questions ,judge my mental health (like is positive or negative how to make it more better ) and give conclusion like that the user health is bad good or moderate and what type of guy(male or female) he/she is " "
     judge_gemini = gemini_chat(default+" "+close_ended_str+" "+open_ended_str)
     #default_txt = "tell me how i am i what kind of man ? , and write in I am ___ for not in you are a __  , you can get to know by a assesment test : " 
     #tell_me_about_me = gemini_chat(default_txt+""+close_ended_str+" "+open_ended_str)
